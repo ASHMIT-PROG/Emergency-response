@@ -1,6 +1,6 @@
 # Emergency Response System
 
-A real-time emergency response system built for hackathons, enabling citizens to instantly notify nearby hospitals and police stations in case of emergencies.
+A real-time emergency response system built for , enabling citizens to instantly notify nearby hospitals and police stations in case of emergencies.
 
 ## Features
 
